@@ -1,3 +1,3 @@
 # Note-Taker
 
-![demo](./demo.gif)
+![demo](demo.gif)
